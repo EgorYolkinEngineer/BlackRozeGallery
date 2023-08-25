@@ -1,5 +1,6 @@
 * {
     font-family: "Helvetica", serif;
+    user-select: none;
 }
 
 .content-full {
